@@ -1,10 +1,10 @@
-.wedo__title {
+.job__title {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
   margin-bottom: 50px;
 }
-.wedo__item--container {
+.job__item--container {
   position: relative;
 }
 
@@ -23,17 +23,17 @@
   align-items: center;
 }
 
-.wedo__list {
+.job__list {
   display: flex;
   gap: 30px;
 }
 
-.wedo__item {
+.job__item {
   list-style-type: none;
   position: relative;
 }
 
-.wedo {
+.job {
   padding-bottom: 94px;
 
   @media screen and (max-width: 1200px) {
