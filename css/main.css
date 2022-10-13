@@ -90,7 +90,6 @@ body {
   padding: 48px 40px;
   display: flex;
   flex-direction: column;
-  gap: 200px;
   background-color: #fff;
   transition-property: background-color;
   transition-duration: 250ms;
